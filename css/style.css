@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    scroll-behavior: smooth;
+}
+
+.col-8 {
+    background-color: #1B817F;
+    height: 1000px;
+}
+
+.col-4 {
+    background-color: #B0C0D1;
+    height: 1000px;
+}
+.logo {
+    margin-top: -19%;
+    margin-left: 50px;
+}
+
+.content {
+    word-spacing: 30px;
+    margin-top: 60px;
+    color: white !important;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    margin-left: 100px;
+}
+
+.link {
+    color: white !important;
+}
+
+.link:hover {
+    color: #B0C0D1!important;
+}
+
+.footgame {
+    font-size: 36px;
+    margin-top: 60px;
+    margin-left: 37%;
+}
+
+.first-image {
+    margin-left: -38%;
+}
+
+.png {
+    margin-top: 58px;
+    margin-left: 80px;
+}
+
+.foot {
+    font-size: 48px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    letter-spacing: 0.065em;
+    margin-top: -36%;
+    margin-left: 22%;
+    font-weight: bolder;
+}
+
+.text {
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 22%;
+    margin-top: 2%;
+}
+
+.button {
+    height: 77px;
+    width: 289px;
+    position: absolute;
+    background-color: #B0C0D1 !important; 
+    color: black !important;
+    border-radius: 100px;
+    opacity: 0.77;
+    box-shadow: none;
+    margin-top: 40px;
+    font-size: 24px;
+    text-align: center;
+    margin-left: 21%;
+    border: none !important;
+    outline: none !important;
+}
+
+.button2 {
+    height: 77px;
+    width: 289px;
+    position: absolute;
+    background-color: white !important; 
+    color: green !important;
+    border-radius: 100px;
+    opacity: 0.77;
+    box-shadow: none;
+    margin-top: 40px;
+    font-size: 24px;
+    text-align: center;
+    margin-left: 54%;
+    border: none !important;
+    outline: none !important;
+    float: right;
+}
